@@ -5,7 +5,7 @@ Thank you very much for visiting my GitHub page. Cheers~ 😊😆😎
 I'm HONG Anlun(洪安伦) from China. My English name is Allen Hong, which sounds very similar to my Chinese name. 
 
 I'm working for a Chinese chip company which mainly makes industrial cameras. 
-I received my M.S. in Networking Security at [Tsinghua University, Beijing (THU)](https://www.tsinghua.edu.cn/) in June 2023 (advised by Prof. [Jilong Wang](https://www.insc.tsinghua.edu.cn/info/1157/2449.htm)) and B.E. in Computer Science at [Shandong University, Qingdao (SDU)](https://www.sdu.edu.cn/) in June 2020.
+I received my M.S. in Network Security at [Tsinghua University, Beijing (THU)](https://www.tsinghua.edu.cn/) in June 2023 (advised by Prof. [Jilong Wang](https://www.insc.tsinghua.edu.cn/info/1157/2449.htm)) and B.E. in Computer Science at [Shandong University, Qingdao (SDU)](https://www.sdu.edu.cn/) in June 2020.
 
 **~~'Research'~~ Interests**: **Configure** Computers/Tools, Image Processing, ~~Binary Security(before June 2022)~~.
 
