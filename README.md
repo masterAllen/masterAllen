@@ -1,4 +1,4 @@
-### Hi
+# Hi
 
 Thank you very much for visiting my GitHub page. Cheers~ 😊😆😎
 
@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Something
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masterAllen)](https://github.com/anuraghazra/github-readme-stats)
