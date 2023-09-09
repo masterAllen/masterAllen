@@ -7,8 +7,6 @@ I'm HONG Anlun(洪安伦) from China. My English name is Allen Hong, which sound
 I'm working for a Chinese chip company which mainly makes industrial cameras. 
 I received my M.S. in Network Security at [Tsinghua University, Beijing (THU)](https://www.tsinghua.edu.cn/) in June 2023 (advised by Prof. [Jilong Wang](https://www.insc.tsinghua.edu.cn/info/1157/2449.htm)) and B.E. in Computer Science at [Shandong University, Qingdao (SDU)](https://www.sdu.edu.cn/) in June 2020.
 
-**~~'Research'~~ Interests**: **Computer Configuration**, Image/Video Processing, System/Network Diagnostic, ~~System Security(before June 2022)~~.
-
 <!--
 **masterAllen/masterAllen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,4 +23,21 @@ Here are some ideas to get you started:
 -->
 
 ## Something
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masterAllen)](https://github.com/anuraghazra/github-readme-stats)
+
+<table>
+  <tr align="center">
+    <td> <b><del>Research</del> Interests</b> </td>
+    <td> <b>Most Used Languages</b> </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <ul>
+      <li>Computer Configuration</li>
+      <li>Image/Video Processing</li>
+      <li>System/Network Diagnostic</li>
+      <li>System Security(before June 2022)</li>
+      </ul>
+    </td>
+   <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterAllen&hide_title=true"/> </td>
+  </tr>
+</table>
