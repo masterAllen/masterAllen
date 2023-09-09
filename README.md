@@ -35,7 +35,7 @@ Here are some ideas to get you started:
       <li>Computer Configuration</li>
       <li>Image/Video Processing</li>
       <li>System/Network Diagnostic</li>
-      <li>System Security(before June 2022)</li>
+      <li><del>System Security(before June 2022)</del></li>
       </ul>
     </td>
    <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterAllen&hide_title=true"/> </td>
