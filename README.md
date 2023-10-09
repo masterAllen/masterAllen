@@ -33,8 +33,8 @@ Here are some ideas to get you started:
     <td width="50%">
       <ul>
       <li>Computer Configuration</li>
-      <li>Image/Video Processing</li>
-      <li>System/Network Diagnostic</li>
+      <li>Low-Level Vision</li>
+      <li>System Diagnostic</li>
       <li><del>System Security(before June 2022)</del></li>
       </ul>
     </td>
