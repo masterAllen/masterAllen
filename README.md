@@ -41,3 +41,9 @@ Here are some ideas to get you started:
    <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterAllen&hide_title=true&layout=compact"/> </td>
   </tr>
 </table>
+
+## Open Source Contribution
+
+I have contributed to some well-known open-source projects:
+- gef (A very popular gdb plugin): https://github.com/hugsy/gef/pull/521
+- opencv (An almost essential CV library): https://github.com/opencv/opencv_contrib/pull/3790
